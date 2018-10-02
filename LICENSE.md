@@ -1,2 +1,2 @@
-This is Git's license.
+This is learngit's license.
 
